@@ -1,2 +1,3 @@
 Hi there
 This is my git project
+added a new line
